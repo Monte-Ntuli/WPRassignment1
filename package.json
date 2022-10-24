@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "wprassignment1",
+  "description": "web programming demonstration of creating a github repository",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Monte-Ntuli/WPRassignment1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Monte-Ntuli/WPRassignment1/issues"
+  },
+  "homepage": "https://github.com/Monte-Ntuli/WPRassignment1#readme"
+}
